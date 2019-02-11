@@ -1,2 +1,2 @@
-# cursogit
+# Curso Git MiriadaX
 curso git
